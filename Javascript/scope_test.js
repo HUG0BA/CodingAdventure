@@ -1,6 +1,6 @@
 //Learning from: JavaScript Guide.  https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide
 //Grammar and types
-
+//
 
 
 //----------------------------Testing  javascript handling of variable scope------------------------------
